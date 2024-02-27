@@ -1,7 +1,7 @@
 <p align="center" dir="auto"><img align="center" src="https://camo.githubusercontent.com/d3c1d72a8e2dc1e7f832fd8bc9bd4b177dd6439623a194a6df67d48764ea4c51/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6272756e6f61616c6578616e6472652673686f775f69636f6e733d74727565267468656d653d7261646963616c266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=brunoaalexandre&amp;layout=compact&amp;theme=radical" style="max-width: 100%;"></p>
 <p align="center" dir="auto">JavaScript | TypeScript | ReactJS | React-Native | VueJS </br> Front-End Developer & <i> Back-End Loading</i> 🔄</p>
 <p align="center" dir="auto">👋 Hi, I'm Bruno Alexandre</p>
-<p align="center" dir="auto">📌 Live at Orocó, PE, Brazil</p>
+<p align="center" dir="auto">📌 Live at Petrolina, PE, Brazil</p>
 
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/brunoaalexandre" alt="LinkedIn" rel="nofollow">
